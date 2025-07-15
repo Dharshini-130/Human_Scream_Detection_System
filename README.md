@@ -96,3 +96,8 @@ MiniProject/
 - Add mobile app integration
 
 ---
+
+
+![Screenshot1](https://github.com/user-attachments/assets/84693117-6625-4403-9c04-47e585f07314)
+![Screenshot2](https://github.com/user-attachments/assets/1de6b2d4-be54-4773-a362-c10a9b892eee)
+
